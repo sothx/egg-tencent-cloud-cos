@@ -47,12 +47,12 @@ exports.tencentCloudCos = {
 exports.tencentCloudCos = {
   client: {
     // 用户的 SecretId
-    SecretId: 'AKIDJWZQ6igs21pSuAe9tStAPfv8Ypv8hjfk',
+    SecretId: 'xxxx21pSuAe9tStAPfv8Ypv8hjfk',
     // 用户的 SecretKey
-    SecretKey: 'f8UkqmphNsJblkX9ZoupY6diFtMdnlaEg',
+    SecretKey: 'f8xxxUkqmphNsJblkX9ZoupY6diFtMdnlaEg',
     defaultParams: {
       // 默认使用的桶，在没有配置的情况下默认使用
-      Bucket: 'sh-miniprogram-1251935795',
+      Bucket: 'sh-miniprogram-1211135795',
       // 默认使用的区域，在没有配置的情况下默认使用
       Region: 'ap-guangzhou',
     },
